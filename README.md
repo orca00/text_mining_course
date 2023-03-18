@@ -1,1 +1,3 @@
-# text_mining_course
+@copy_right / CH01. ~ CH14.
+
+`참고자료: 박상언, 강주영, 정석찬 '파이썬 텍스트 마이닝 완벽 가이드' `
